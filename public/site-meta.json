@@ -1,0 +1,86 @@
+{
+  "gallery": [
+    {
+      "id": "aurora_duality",
+      "src": "/cards/aurora_duality.webp"
+    },
+    {
+      "id": "myth01",
+      "src": "/cards/myth01.webp"
+    },
+    {
+      "id": "myth02",
+      "src": "/cards/myth02.webp"
+    },
+    {
+      "id": "myth03",
+      "src": "/cards/myth03.webp"
+    },
+    {
+      "id": "myth05",
+      "src": "/cards/myth05.webp"
+    },
+    {
+      "id": "myth06",
+      "src": "/cards/myth06.webp"
+    },
+    {
+      "id": "ember6",
+      "src": "/cards/ember6.webp"
+    },
+    {
+      "id": "sky7",
+      "src": "/cards/sky7.webp"
+    },
+    {
+      "id": "wild7",
+      "src": "/cards/wild7.webp"
+    },
+    {
+      "id": "gloom7",
+      "src": "/cards/gloom7.webp"
+    },
+    {
+      "id": "sol7",
+      "src": "/cards/sol7.webp"
+    },
+    {
+      "id": "mire13",
+      "src": "/cards/mire13.webp"
+    }
+  ],
+  "email": "estimatedly@gmail.com",
+  "playUrl": "{{PLAY_STORE_URL}}",
+  "privacyUrl": "https://cardarise.com/privacy",
+  "privacyUrlFallback": "{{PRIVACY_URL}}",
+  "version": "1.1.39",
+  "apk": {
+    "path": "/download/CardArise-1.1.39.apk",
+    "sha256": "99e3963bf894d0f8c7ee36ca752fb1cdb049d092c7e4e65f8748414b3af46e46",
+    "bytes": 112072636,
+    "minAndroid": "Android 6.0 (API 23)+",
+    "versionCode": 41,
+    "legacyRedirects": [
+      "/download/CardArise-1.1.38.apk",
+      "/download/CardArise-1.1.36.apk",
+      "/download/CardArise-1.1.35.apk",
+      "/download/CardArise-1.1.33.apk",
+      "/download/CardArise-1.1.32.apk",
+      "/download/CardArise-1.1.31.apk",
+      "/download/CardArise-1.1.30.apk",
+      "/download/CardArise-1.1.29.apk",
+      "/download/CardArise-1.1.28.apk",
+      "/download/CardArise-1.1.27.apk",
+      "/download/CardArise-1.1.26.apk",
+      "/download/CardArise-1.1.25.apk",
+      "/download/CardArise-1.1.24.apk",
+      "/download/CardArise-1.1.23.apk",
+      "/download/CardArise-1.1.22.apk",
+      "/download/CardArise-1.1.21.apk",
+      "/download/CardArise-1.1.20.apk",
+      "/download/CardArise-1.1.19.apk"
+    ],
+    "hostUrl": "https://huggingface.co/Olibea/card-arise-downloads/resolve/main/CardArise-1.1.39-code41-release.apk",
+    "hostDownloadUrl": "https://huggingface.co/Olibea/card-arise-downloads/resolve/main/CardArise-1.1.39-code41-release.apk?download=true"
+  }
+}

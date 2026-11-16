@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cardarise.com/sitemap.xml

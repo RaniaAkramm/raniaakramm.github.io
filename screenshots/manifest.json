@@ -1,0 +1,38 @@
+[
+  {
+    "src": "/screenshots/01-start-gate.webp",
+    "alt": "Card Arise start gate with fire and ice card showcase",
+    "w": 1280,
+    "h": 720
+  },
+  {
+    "src": "/screenshots/02-collection.webp",
+    "alt": "Card Arise collectible card collection screen",
+    "w": 1280,
+    "h": 720
+  },
+  {
+    "src": "/screenshots/03-mythic-detail.webp",
+    "alt": "Mythic card detail view in Card Arise Android RPG",
+    "w": 1280,
+    "h": 720
+  },
+  {
+    "src": "/screenshots/04-battle-midturn.webp",
+    "alt": "Fire and ice card battle mid-turn in Card Arise",
+    "w": 1280,
+    "h": 720
+  },
+  {
+    "src": "/screenshots/05-vip-store.webp",
+    "alt": "Card Arise VIP track earned by watching rewarded ads, no purchases",
+    "w": 1280,
+    "h": 720
+  },
+  {
+    "src": "/screenshots/06-summon-rates.webp",
+    "alt": "Card Arise summon drop rates disclosure",
+    "w": 1280,
+    "h": 720
+  }
+]

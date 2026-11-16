@@ -1,0 +1,656 @@
+[
+  {
+    "id": "aurora_duality",
+    "name": "Aurora, Flame and Frost",
+    "rarity": "Mythic",
+    "race": "sky"
+  },
+  {
+    "id": "ember0",
+    "name": "Ash Hunter",
+    "rarity": "Normal",
+    "race": "ember"
+  },
+  {
+    "id": "ember1",
+    "name": "Cinder Warrior",
+    "rarity": "Normal",
+    "race": "ember"
+  },
+  {
+    "id": "ember10",
+    "name": "Ember Archer",
+    "rarity": "Normal",
+    "race": "ember"
+  },
+  {
+    "id": "ember11",
+    "name": "Magma Hound",
+    "rarity": "Normal",
+    "race": "ember"
+  },
+  {
+    "id": "ember12",
+    "name": "Flame Duelist",
+    "rarity": "SR",
+    "race": "ember"
+  },
+  {
+    "id": "ember13",
+    "name": "Pyre Witch",
+    "rarity": "SR",
+    "race": "ember"
+  },
+  {
+    "id": "ember14",
+    "name": "Obsidian Golem",
+    "rarity": "SSR",
+    "race": "ember"
+  },
+  {
+    "id": "ember15",
+    "name": "Inferno Marshal",
+    "rarity": "SSR",
+    "race": "ember"
+  },
+  {
+    "id": "ember2",
+    "name": "Dune Fighter",
+    "rarity": "Normal",
+    "race": "ember"
+  },
+  {
+    "id": "ember3",
+    "name": "Blaze Rhino",
+    "rarity": "Normal",
+    "race": "ember"
+  },
+  {
+    "id": "ember4",
+    "name": "Storm Shaman",
+    "rarity": "SR",
+    "race": "ember"
+  },
+  {
+    "id": "ember5",
+    "name": "Clan Chieftain",
+    "rarity": "SR",
+    "race": "ember"
+  },
+  {
+    "id": "ember6",
+    "name": "Steppe Drake",
+    "rarity": "SSR",
+    "race": "ember"
+  },
+  {
+    "id": "ember7",
+    "name": "Kargh the Volcano Breaker",
+    "rarity": "UR",
+    "race": "ember"
+  },
+  {
+    "id": "ember8",
+    "name": "Spark Imp",
+    "rarity": "Normal",
+    "race": "ember"
+  },
+  {
+    "id": "ember9",
+    "name": "Kiln Brute",
+    "rarity": "Normal",
+    "race": "ember"
+  },
+  {
+    "id": "gloom0",
+    "name": "Shade Assassin",
+    "rarity": "Normal",
+    "race": "gloom"
+  },
+  {
+    "id": "gloom1",
+    "name": "Night Spy",
+    "rarity": "Normal",
+    "race": "gloom"
+  },
+  {
+    "id": "gloom10",
+    "name": "Veil Archer",
+    "rarity": "Normal",
+    "race": "gloom"
+  },
+  {
+    "id": "gloom11",
+    "name": "Shadow Duelist",
+    "rarity": "Normal",
+    "race": "gloom"
+  },
+  {
+    "id": "gloom12",
+    "name": "Night Raven",
+    "rarity": "SR",
+    "race": "gloom"
+  },
+  {
+    "id": "gloom13",
+    "name": "Crypt Weaver",
+    "rarity": "SR",
+    "race": "gloom"
+  },
+  {
+    "id": "gloom14",
+    "name": "Umbral Stalker",
+    "rarity": "SSR",
+    "race": "gloom"
+  },
+  {
+    "id": "gloom15",
+    "name": "Midnight Countess",
+    "rarity": "SSR",
+    "race": "gloom"
+  },
+  {
+    "id": "gloom2",
+    "name": "Moon Witch",
+    "rarity": "Normal",
+    "race": "gloom"
+  },
+  {
+    "id": "gloom3",
+    "name": "Eclipse Blade",
+    "rarity": "Normal",
+    "race": "gloom"
+  },
+  {
+    "id": "gloom4",
+    "name": "Ink Spider",
+    "rarity": "SR",
+    "race": "gloom"
+  },
+  {
+    "id": "gloom5",
+    "name": "Master of Masks",
+    "rarity": "SR",
+    "race": "gloom"
+  },
+  {
+    "id": "gloom6",
+    "name": "Mirror Phantom",
+    "rarity": "SSR",
+    "race": "gloom"
+  },
+  {
+    "id": "gloom7",
+    "name": "Nyxar the Eclipse King",
+    "rarity": "UR",
+    "race": "gloom"
+  },
+  {
+    "id": "gloom8",
+    "name": "Dusk Moth",
+    "rarity": "Normal",
+    "race": "gloom"
+  },
+  {
+    "id": "gloom9",
+    "name": "Hollow Thief",
+    "rarity": "Normal",
+    "race": "gloom"
+  },
+  {
+    "id": "mire0",
+    "name": "Bog Rat",
+    "rarity": "Normal",
+    "race": "mire"
+  },
+  {
+    "id": "mire1",
+    "name": "Mist Wraith",
+    "rarity": "Normal",
+    "race": "mire"
+  },
+  {
+    "id": "mire10",
+    "name": "Leech Priest",
+    "rarity": "Normal",
+    "race": "mire"
+  },
+  {
+    "id": "mire11",
+    "name": "Grave Crawler",
+    "rarity": "Normal",
+    "race": "mire"
+  },
+  {
+    "id": "mire12",
+    "name": "Rot Knight",
+    "rarity": "SR",
+    "race": "mire"
+  },
+  {
+    "id": "mire13",
+    "name": "Bog Oracle",
+    "rarity": "SR",
+    "race": "mire"
+  },
+  {
+    "id": "mire14",
+    "name": "Mire Hydra",
+    "rarity": "SSR",
+    "race": "mire"
+  },
+  {
+    "id": "mire15",
+    "name": "Plague Baroness",
+    "rarity": "SSR",
+    "race": "mire"
+  },
+  {
+    "id": "mire2",
+    "name": "Mud Witch",
+    "rarity": "Normal",
+    "race": "mire"
+  },
+  {
+    "id": "mire3",
+    "name": "Bone Knight",
+    "rarity": "Normal",
+    "race": "mire"
+  },
+  {
+    "id": "mire4",
+    "name": "Shadow Leech",
+    "rarity": "SR",
+    "race": "mire"
+  },
+  {
+    "id": "mire5",
+    "name": "Soul Reaper",
+    "rarity": "SR",
+    "race": "mire"
+  },
+  {
+    "id": "mire6",
+    "name": "Abyss Beast",
+    "rarity": "SSR",
+    "race": "mire"
+  },
+  {
+    "id": "mire7",
+    "name": "Morvel, Lord of the Depths",
+    "rarity": "UR",
+    "race": "mire"
+  },
+  {
+    "id": "mire8",
+    "name": "Peat Ghoul",
+    "rarity": "Normal",
+    "race": "mire"
+  },
+  {
+    "id": "mire9",
+    "name": "Swamp Hag",
+    "rarity": "Normal",
+    "race": "mire"
+  },
+  {
+    "id": "myth01",
+    "name": "Astravel, Crown of Dawn",
+    "rarity": "Mythic",
+    "race": "sol"
+  },
+  {
+    "id": "myth02",
+    "name": "Vyrmora, the Living Forest",
+    "rarity": "Mythic",
+    "race": "wild"
+  },
+  {
+    "id": "myth03",
+    "name": "Ignaroth, Heart of the Caldera",
+    "rarity": "Mythic",
+    "race": "ember"
+  },
+  {
+    "id": "myth04",
+    "name": "Nhal, the Drowned Saint",
+    "rarity": "Mythic",
+    "race": "mire"
+  },
+  {
+    "id": "myth05",
+    "name": "Caelith, Storm Empress",
+    "rarity": "Mythic",
+    "race": "sky"
+  },
+  {
+    "id": "myth06",
+    "name": "Oblivar, the Last Eclipse",
+    "rarity": "Mythic",
+    "race": "gloom"
+  },
+  {
+    "id": "myth07",
+    "name": "Solenne, Blade of Noon",
+    "rarity": "Mythic",
+    "race": "sol"
+  },
+  {
+    "id": "myth08",
+    "name": "Grimfang, Alpha of Ages",
+    "rarity": "Mythic",
+    "race": "wild"
+  },
+  {
+    "id": "myth09",
+    "name": "Pyrrhus, Meteor King",
+    "rarity": "Mythic",
+    "race": "ember"
+  },
+  {
+    "id": "myth10",
+    "name": "Morgessa, Queen of Rot",
+    "rarity": "UR",
+    "race": "mire"
+  },
+  {
+    "id": "myth11",
+    "name": "Aurelion, Tide of Stars",
+    "rarity": "UR",
+    "race": "sky"
+  },
+  {
+    "id": "myth12",
+    "name": "Velith, Mask of Night",
+    "rarity": "UR",
+    "race": "gloom"
+  },
+  {
+    "id": "sky0",
+    "name": "Wind Swift",
+    "rarity": "Normal",
+    "race": "sky"
+  },
+  {
+    "id": "sky1",
+    "name": "Cloud Herald",
+    "rarity": "Normal",
+    "race": "sky"
+  },
+  {
+    "id": "sky10",
+    "name": "Frost Falcon",
+    "rarity": "Normal",
+    "race": "sky"
+  },
+  {
+    "id": "sky11",
+    "name": "Tempest Monk",
+    "rarity": "Normal",
+    "race": "sky"
+  },
+  {
+    "id": "sky12",
+    "name": "Comet Rider",
+    "rarity": "SR",
+    "race": "sky"
+  },
+  {
+    "id": "sky13",
+    "name": "Aether Scholar",
+    "rarity": "SR",
+    "race": "sky"
+  },
+  {
+    "id": "sky14",
+    "name": "Cloud Leviathan",
+    "rarity": "SSR",
+    "race": "sky"
+  },
+  {
+    "id": "sky15",
+    "name": "Zenith Valkyrie",
+    "rarity": "SSR",
+    "race": "sky"
+  },
+  {
+    "id": "sky2",
+    "name": "Star Warden",
+    "rarity": "Normal",
+    "race": "sky"
+  },
+  {
+    "id": "sky3",
+    "name": "Thunder Singer",
+    "rarity": "Normal",
+    "race": "sky"
+  },
+  {
+    "id": "sky4",
+    "name": "Lightning Lancer",
+    "rarity": "SR",
+    "race": "sky"
+  },
+  {
+    "id": "sky5",
+    "name": "Orbit Sage",
+    "rarity": "SR",
+    "race": "sky"
+  },
+  {
+    "id": "sky6",
+    "name": "Sky Phoenix",
+    "rarity": "SSR",
+    "race": "sky"
+  },
+  {
+    "id": "sky7",
+    "name": "Elara of the Horizon",
+    "rarity": "UR",
+    "race": "sky"
+  },
+  {
+    "id": "sky8",
+    "name": "Gust Kite",
+    "rarity": "Normal",
+    "race": "sky"
+  },
+  {
+    "id": "sky9",
+    "name": "Rain Dancer",
+    "rarity": "Normal",
+    "race": "sky"
+  },
+  {
+    "id": "sol0",
+    "name": "Dawn Sentinel",
+    "rarity": "Normal",
+    "race": "sol"
+  },
+  {
+    "id": "sol1",
+    "name": "Halo Archer",
+    "rarity": "Normal",
+    "race": "sol"
+  },
+  {
+    "id": "sol10",
+    "name": "Prism Guard",
+    "rarity": "Normal",
+    "race": "sol"
+  },
+  {
+    "id": "sol11",
+    "name": "Sunforge Smith",
+    "rarity": "Normal",
+    "race": "sol"
+  },
+  {
+    "id": "sol12",
+    "name": "Aurora Paladin",
+    "rarity": "SR",
+    "race": "sol"
+  },
+  {
+    "id": "sol13",
+    "name": "Choir Matron",
+    "rarity": "SR",
+    "race": "sol"
+  },
+  {
+    "id": "sol14",
+    "name": "Highsun Templar",
+    "rarity": "SSR",
+    "race": "sol"
+  },
+  {
+    "id": "sol15",
+    "name": "Seraph of Noon",
+    "rarity": "SSR",
+    "race": "sol"
+  },
+  {
+    "id": "sol2",
+    "name": "Gilded Knight",
+    "rarity": "Normal",
+    "race": "sol"
+  },
+  {
+    "id": "sol3",
+    "name": "Lumen Priestess",
+    "rarity": "Normal",
+    "race": "sol"
+  },
+  {
+    "id": "sol4",
+    "name": "Sunshield",
+    "rarity": "SR",
+    "race": "sol"
+  },
+  {
+    "id": "sol5",
+    "name": "Radiant Judge",
+    "rarity": "SR",
+    "race": "sol"
+  },
+  {
+    "id": "sol6",
+    "name": "Queen of Spires",
+    "rarity": "SSR",
+    "race": "sol"
+  },
+  {
+    "id": "sol7",
+    "name": "Orian the Daybreak Warden",
+    "rarity": "UR",
+    "race": "sol"
+  },
+  {
+    "id": "sol8",
+    "name": "Bell Acolyte",
+    "rarity": "Normal",
+    "race": "sol"
+  },
+  {
+    "id": "sol9",
+    "name": "Lantern Squire",
+    "rarity": "Normal",
+    "race": "sol"
+  },
+  {
+    "id": "wild0",
+    "name": "Moss Stag",
+    "rarity": "Normal",
+    "race": "wild"
+  },
+  {
+    "id": "wild1",
+    "name": "Bough Seer",
+    "rarity": "Normal",
+    "race": "wild"
+  },
+  {
+    "id": "wild10",
+    "name": "Oak Shaman",
+    "rarity": "Normal",
+    "race": "wild"
+  },
+  {
+    "id": "wild11",
+    "name": "Vine Lasher",
+    "rarity": "Normal",
+    "race": "wild"
+  },
+  {
+    "id": "wild12",
+    "name": "Elder Treant",
+    "rarity": "SR",
+    "race": "wild"
+  },
+  {
+    "id": "wild13",
+    "name": "Grove Huntress",
+    "rarity": "SR",
+    "race": "wild"
+  },
+  {
+    "id": "wild14",
+    "name": "Ironbark Ram",
+    "rarity": "SSR",
+    "race": "wild"
+  },
+  {
+    "id": "wild15",
+    "name": "Wildheart Warden",
+    "rarity": "SSR",
+    "race": "wild"
+  },
+  {
+    "id": "wild2",
+    "name": "Barkhide Bear",
+    "rarity": "Normal",
+    "race": "wild"
+  },
+  {
+    "id": "wild3",
+    "name": "Springkeeper",
+    "rarity": "Normal",
+    "race": "wild"
+  },
+  {
+    "id": "wild4",
+    "name": "Thorn Wolf",
+    "rarity": "SR",
+    "race": "wild"
+  },
+  {
+    "id": "wild5",
+    "name": "Rootcaller",
+    "rarity": "SR",
+    "race": "wild"
+  },
+  {
+    "id": "wild6",
+    "name": "Pine Colossus",
+    "rarity": "SSR",
+    "race": "wild"
+  },
+  {
+    "id": "wild7",
+    "name": "Sylvana, Mother of Groves",
+    "rarity": "UR",
+    "race": "wild"
+  },
+  {
+    "id": "wild8",
+    "name": "Fern Sprite",
+    "rarity": "Normal",
+    "race": "wild"
+  },
+  {
+    "id": "wild9",
+    "name": "Briar Boar",
+    "rarity": "Normal",
+    "race": "wild"
+  }
+]
