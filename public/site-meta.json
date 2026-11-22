@@ -53,14 +53,15 @@
   "playUrl": "{{PLAY_STORE_URL}}",
   "privacyUrl": "https://cardarise.com/privacy",
   "privacyUrlFallback": "{{PRIVACY_URL}}",
-  "version": "1.1.39",
+  "version": "1.1.46",
   "apk": {
-    "path": "/download/CardArise-1.1.39.apk",
-    "sha256": "99e3963bf894d0f8c7ee36ca752fb1cdb049d092c7e4e65f8748414b3af46e46",
-    "bytes": 112072636,
+    "path": "/download/CardArise-1.1.46.apk",
+    "sha256": "c9c788d87d206b754643853ecbfc4d4e2f90d61fbbe6dfc2a6ee2e7991fa41b3",
+    "bytes": 68246011,
     "minAndroid": "Android 6.0 (API 23)+",
-    "versionCode": 41,
+    "versionCode": 48,
     "legacyRedirects": [
+      "/download/CardArise-1.1.39.apk",
       "/download/CardArise-1.1.38.apk",
       "/download/CardArise-1.1.36.apk",
       "/download/CardArise-1.1.35.apk",
@@ -80,7 +81,7 @@
       "/download/CardArise-1.1.20.apk",
       "/download/CardArise-1.1.19.apk"
     ],
-    "hostUrl": "https://huggingface.co/Olibea/card-arise-downloads/resolve/main/CardArise-1.1.39-code41-release.apk",
-    "hostDownloadUrl": "https://huggingface.co/Olibea/card-arise-downloads/resolve/main/CardArise-1.1.39-code41-release.apk?download=true"
+    "hostUrl": "https://huggingface.co/Olibea/card-arise-downloads/resolve/main/CardArise-1.1.46-code48-release.apk",
+    "hostDownloadUrl": "https://huggingface.co/Olibea/card-arise-downloads/resolve/main/CardArise-1.1.46-code48-release.apk?download=true"
   }
 }
